@@ -1,1 +1,1 @@
-Soy Gabriel, actualmente aprendiendo java.
+Soy Gabriel.
